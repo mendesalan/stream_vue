@@ -1,29 +1,20 @@
 # stream_vue
 
+## Project Overview
+```
+It is a simple vue-cli app that listen to events from a given streamer, creating a simple embedded Twitch Player on screen.
+```
+
 ## Project setup
 ```
-npm install
+npm install and then npm run serve, if you wish to run on specific port you can npm run serve -- port=3000. npm run build for dist production folder.
 ```
 
-### Compiles and hot-reloads for development
+## Resources used
 ```
-npm run serve
-```
+On the research to build this Twitch-App i have used resources from twitch, they're all linked below:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://github.com/twitchdev/authentication-samples
 
-### Run your tests
+https://github.com/twitchdev/pubsub-samples
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
