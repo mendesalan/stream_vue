@@ -24,7 +24,7 @@ https://github.com/twitchdev/pubsub-samples
 ```
 1 - How would you deploy the above on AWS? (ideally a rough architecture diagram will help)
 
-[I'm an inline-style link](https://i.imgur.com/LYwOYQH.png)
+[https://i.imgur.com/LYwOYQH.png] - Diagram
 
 
 2 - Where do you see bottlenecks in your proposed architecture and how would you approach scaling this app starting from 100 reqs/day to 900MM reqs/day over 6 months?
